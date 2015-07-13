@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
 
 	/**
-	 * @param args
+	 * reference : http://wildaboutmath.com/2008/02/01/math-magic-with-the-number-9/
 	 */
 	public static void main(String[] args) {
 		ArrayList<int[]> numList = new ArrayList<int[]>();
