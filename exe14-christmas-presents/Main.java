@@ -26,10 +26,10 @@ class Main {
 		}
 		else { // Here, n > 1 
 			System.out.println("The number of presents received on day "
-			                    + n + " is  " + present_on_day(n) + ".");
+			                    + n + " is " + present_on_day(n) + ".");
 
 			System.out.println("The number of presents received in "
-			                    + n + " days is  " + present_thru_days(n) + ".");
+			                    + n + " days is " + present_thru_days(n) + ".");
 		}
 	}
 
